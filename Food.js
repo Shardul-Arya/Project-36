@@ -2,7 +2,7 @@ class Foods {
     constructor() {
         //var foodStock = database.ref('Food');
         this.foodStock = 0
-        this.image = loadImage("Images/Milk.png");
+        this.image = loadImage("Milk.png");
     }
 
     getFoodStock() {
